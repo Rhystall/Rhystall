@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a second year software engineering at Telkom University Purwokerto, passionate about exploring the realm of coding, especially mobile development.
+🔭 I am a second year software engineering  student at Telkom University Purwokerto, passionate about exploring the realm of coding, especially mobile development.
 
 
 ## 🌐 Socials:
