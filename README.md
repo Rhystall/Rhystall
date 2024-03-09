@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I'm a second-year Software Engineering student at Telkom University, Purwokerto. I have a passion for exploring the realm of coding, with a particular interest in mobile development and front-end web development.
+<h1 align="center">Hi 👋, I'm Aufa Muhammad Isyfa'Lana</h1>
+<h3 align="center">🔭 I'm a second-year Software Engineering student at Telkom University, Purwokerto. I have a passion for exploring the realm of coding, with a particular interest in mobile development and front-end web development.</h3>
 
 
 
