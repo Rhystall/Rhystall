@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Aufa Muhammad Isyfa'Lana</h1>
-<h3 align="center">🔭 I'm a second-year Software Engineering student at Telkom University Purwokerto. I have a passion for exploring the realm of coding, with a particular interest in Web3</h3>
+<h3 align="center">🔭 I'm a Mobile & frontend developer exploring Web3. Building @Trace-Collective — creating the future, leaving traces. I have a passion for exploring the realm of coding, with a particular interest in Web3</h3>
 
 
 
