@@ -1,21 +1,35 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Aufa Muhammad Isyfa'Lana</h1>
-<h3 align="center">🔭 I'm a Mobile & frontend developer exploring Web3. Building @Trace-Collective — creating the future, leaving traces. I have a passion for exploring the realm of coding, with a particular interest in Web3</h3>
+<a href="https://www.tracecollective.studio"><img src="assets/hero.svg" width="100%" alt="Trace Collective: creating the future, leaving traces. Walk into Trace HQ at tracecollective.studio"></a>
 
+<img src="assets/intro.svg" width="100%" alt="Hey, I'm Ofaa. Web3 and mobile developer (iOS + Android), building Trace Collective, a builder-led creative and venture studio from Indonesia. Every project lives at tracecollective.studio.">
 
+<p align="center">
+  <a href="https://www.tracecollective.studio"><img src="https://img.shields.io/badge/tracecollective.studio-2f6f6a?style=for-the-badge&logo=googlechrome&logoColor=fffbf3" alt="tracecollective.studio"></a>
+  <a href="https://x.com/0xrhystalgie"><img src="https://img.shields.io/badge/@0xrhystalgie-24232b?style=for-the-badge&logo=x&logoColor=fffbf3" alt="X @0xrhystalgie"></a>
+  <a href="https://www.linkedin.com/in/aufa-muhammad/"><img src="https://img.shields.io/badge/LinkedIn-e8664f?style=for-the-badge&logo=linkedin&logoColor=fffbf3" alt="LinkedIn"></a>
+  <a href="https://github.com/Trace-Collective"><img src="https://img.shields.io/badge/Trace--Collective-dba646?style=for-the-badge&logo=github&logoColor=24232b&labelColor=dba646" alt="Trace Collective on GitHub"></a>
+</p>
 
+<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rhytsall_) 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rhystall&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rhystall&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhystall&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-stack-dark.svg">
+  <img src="assets/title-stack-light.svg" width="460" alt="01 Toolbox">
+</picture>
 
+<img src="assets/stack.svg" width="100%" alt="Web3: Solidity, Foundry, EVM, Uniswap V2/V3/V4, wagmi, viem. Mobile: Swift, SwiftUI, WidgetKit, Kotlin, Jetpack Compose, Room, Hilt, Flutter. Web: React, Next.js, TypeScript, Vite, Tailwind, three.js, GSAP. Backend: Node.js, PostgreSQL, Drizzle, Supabase, Directus. Ship: Docker, VPS, Vercel, Figma, Claude Code.">
 
----
-[![](https://visitcount.itsvg.in/api?id=Rhystall&icon=2&color=6)](https://visitcount.itsvg.in)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/title-activity-dark.svg">
+  <img src="assets/title-activity-light.svg" width="460" alt="02 On GitHub">
+</picture>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="assets/stats.svg" width="100%" alt="GitHub activity: contributions, streaks, commits, pull requests, issues and repositories, updated daily">
+
+<a href="https://www.tracecollective.studio"><img src="assets/work-with-us.svg" width="100%" alt="Work with us: onchain systems, native iOS + Android apps and playful interfaces. Say hello at tracecollective.studio"></a>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
+    <img src="assets/footer-light.svg" width="420" alt="Creating the future, leaving traces.">
+  </picture>
+</p>
