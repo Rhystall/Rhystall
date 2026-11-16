@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.tracecollective.studio"><img src="https://img.shields.io/badge/tracecollective.studio-2f6f6a?style=for-the-badge&logo=googlechrome&logoColor=fffbf3" alt="tracecollective.studio"></a>
-  <a href="https://x.com/0xrhystalgie"><img src="https://img.shields.io/badge/@0xrhystalgie-24232b?style=for-the-badge&logo=x&logoColor=fffbf3" alt="X @0xrhystalgie"></a>
+  <a href="https://x.com/BuiltByTrace"><img src="https://img.shields.io/badge/@BuiltByTrace-24232b?style=for-the-badge&logo=x&logoColor=fffbf3" alt="X @BuiltByTrace"></a>
   <a href="https://www.linkedin.com/in/aufa-muhammad/"><img src="https://img.shields.io/badge/LinkedIn-e8664f?style=for-the-badge&logo=linkedin&logoColor=fffbf3" alt="LinkedIn"></a>
   <a href="https://github.com/Trace-Collective"><img src="https://img.shields.io/badge/Trace--Collective-dba646?style=for-the-badge&logo=github&logoColor=24232b&labelColor=dba646" alt="Trace Collective on GitHub"></a>
 </p>
